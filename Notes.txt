@@ -1,0 +1,50 @@
+Initialisation
+	git init
+
+check status
+	git status
+
+Adding file
+	git add hello.txt
+	git add .
+	
+Linking origin (only for local project being pushed to remote)
+	git remote add origin https://github.com/niranjan14shekar/ctatw.git
+
+Commit
+	git commit -m "first commit"
+
+push to remote
+	git push origin <branch>
+
+Push changes to remote
+	git push -u origin master
+	
+.gitignore
+
+Create branch
+	git branch "niru"
+change branch
+	git checkout niru
+create and chagne	
+	git checkout -b "shake"
+Pull new created branches
+	git fetch
+Delete branches in local deleted in remote
+	git fetch -p  (prune)
+clean slate
+	git reset --hard
+
+Stashing
+	git stash
+	git stash apply
+	git stash pop
+
+delete branch
+	git branch -D niru
+	
+reverts
+cherry-pick
+
+ git revert ccf70ff --no-commit
+ git cherry-pick 407c3fc
