@@ -2,6 +2,8 @@ my first
 git project
 stashing code
 
+maybe
+yes
 conflict
 h
 conflict 2
@@ -10,3 +12,6 @@ Remote
 staging aread
 
 workspace
+no
+
+g
