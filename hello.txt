@@ -3,11 +3,8 @@ git project
 
 
 conflict
-<<<<<<< HEAD
 h
-=======
 conflict 2
->>>>>>> 2c83325a43f09988b491c16bd57f8b4a5d776fe9
 Remote
 
 staging aread
