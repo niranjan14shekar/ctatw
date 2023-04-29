@@ -1,6 +1,6 @@
 my first
 git project
-
+stashing code
 
 conflict
 h
