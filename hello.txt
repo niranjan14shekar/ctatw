@@ -3,7 +3,7 @@ git project
 
 
 conflict
-
+conflict 2
 Remote
 
 staging aread
